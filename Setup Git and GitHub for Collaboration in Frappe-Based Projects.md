@@ -31,7 +31,7 @@ Navigate to the frappe-bench/apps/frappe directory and cut/save the following hi
 ### Step 4: Remove Git and Related Files
 - Remove Git and related files from frappe-bench directory
 ```
-rm -rf .git
+rm -rf .git*
 ```
 
 **NOTE:** Even though we saved the files in Step 3, we are clearing them again.
