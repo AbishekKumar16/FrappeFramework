@@ -21,10 +21,10 @@ Create a new Frappe instance as needed for your project. Refre to  [Frappe v15 I
 ### Step 3: Safely Save Git-Related Files from Frappe Directory
 Navigate to the frappe-bench/apps/frappe directory and cut/save the following hidden files:
 
-- `.git`
-- `.git-blame-ignore-revs`
-- `.github`
-- `.gitignore`
+- .git
+- .git-blame-ignore-revs
+- .github
+- .gitignore
 
 **NOTE:** These files are essential for updating Frappe.
 
